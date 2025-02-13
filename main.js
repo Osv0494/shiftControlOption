@@ -1,1 +1,1 @@
-//alert("This website is still under development, for more information contact us at 903-213-5566")
+alert("This website is still under development, for more information contact us at 903-213-5566")
